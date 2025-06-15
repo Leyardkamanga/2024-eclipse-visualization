@@ -7,7 +7,6 @@ This repository contains a Jupyter Notebook for visualizing the 2024 solar eclip
 The notebook demonstrates how to:
 
 - Load and process shapefiles representing eclipse paths (umbra, penumbra, etc.)
-- Visualize multiple layers on a map with transparency and styling
 - Overlay eclipse data on various basemaps for better geographic context
 - Reproject data to a suitable Coordinate Reference System (CRS) for the US region
 
